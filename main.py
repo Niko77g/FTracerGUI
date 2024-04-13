@@ -63,6 +63,7 @@ def writefun():
     cursor.execute("INSERT INTO trening_results(date,time,exercise,number_of_repetitions, number_of_series, weight) VALUES (?,?,?,?,?,?)", (date, time, exercise, number_of_repetitions, number_of_series, weight))
     connection.commit()
     connection.close()
+    backmenu()
     
 
 def show_fun():
@@ -139,12 +140,24 @@ def edit_fun():
         connection.close()
         backmenu()
     def writenedit2():
+        connection = sqlite3.connect("trening_results.db")
+        cursor = connection.cursor()
+       
         try:
             id_value = int(idEntry.get())
         except ValueError:
             idediterror = Label(add_frame, text="Zadajte id vo formáte int!")
             idediterror.grid()
             return
+        
+        cursor.execute("SELECT * FROM trening_results WHERE id=?", (id_value,))
+        records = cursor.fetchone()  
+
+        if records is None:
+            noidedit = Label(add_frame,text="Zadané ID sa nenachádza v databáze!")
+            noidedit.grid()
+            return
+
         try:
              new_number_of_repetitions_val = int(new_number_of_repetitions.get())
         except ValueError:
@@ -167,7 +180,7 @@ def edit_fun():
         new_exercise = new_exerciseEntry.get()
         
         confirm(new_exercise, new_number_of_repetitions_val, new_number_of_series_val, new_weight_val, id_value)
-        
+
     idedit = Label(add_frame,text="Zadajte id cviku na edit:",width=33, height=2,font=("TkHeadingFont",12))
     idedit.grid(row=1,column=0,padx=20,pady=1)
     idEntry = Entry(add_frame)
@@ -233,13 +246,16 @@ def remove_fun():
     def removeconfigall():
         connection = sqlite3.connect("trening_results.db")
         cursor = connection.cursor()
-        cursor.execute("DELETE FROM trening_results")
-        cursor.execute("DELETE FROM sqlite_sequence WHERE name='trening_results'")
         cursor.execute("SELECT * FROM trening_results")
         result = cursor.fetchone()
         if result is None:
             norecords = Label(add_frame, text="V databáze nie sú žiadne záznamy.")
             norecords.grid()
+        else:
+            cursor.execute("DELETE FROM trening_results")
+            cursor.execute("DELETE FROM sqlite_sequence WHERE name='trening_results'")
+            norecords2 = Label(add_frame, text="Vymazanie údajov z databázy prebehlo úspešne.")
+            norecords2.grid()
         connection.commit()
         connection.close()
         print("REMOVEconfigall fun")
