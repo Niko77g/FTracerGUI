@@ -1,5 +1,5 @@
 # Sluzi na ziskanie a nainstalovanie python verzie 3.12.2(obrazu)
-FROM python:3.12.2  
+FROM python:3.12
 
 # Aktualizuje a nainstaluje python3-tk a python3-pip
 RUN apt-get update && apt-get install -y \
@@ -10,10 +10,10 @@ RUN apt-get update && apt-get install -y \
 WORKDIR /app
 
 # Prenesiem requirements.txt subor do /app/requirements.txt
-COPY requirements.txt requirements.txt
+COPY . /app/
 
 # Instaluje potrebne balicky, ktore sa nachadzaju v requirements.txt
-RUN pip3 install -r requirements.txt
+#RUN pip3 install -r requirements.txt
 
 # Spusti program pri starte kontajnera
-CMD [ "python","./Ftracer.py" ]
+CMD [ "python","Ftracer.py" ]
