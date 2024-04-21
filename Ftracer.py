@@ -307,7 +307,7 @@ def remove_fun():
         showeB = Button(add_frame, text="Confirm", command=removeconfig,width=33, height=2,font=("TkHeadingFont",12))
         showeB.grid(row=10,column=0,padx=20,pady=8)
         
-    removeonly = Label(add_frame,text="Enter the value of the int which you want to remove:",width=33, height=2,font=("TkHeadingFont",12))
+    removeonly = Label(add_frame,text="Enter the value of the int which you want to remove:",width=43, height=2,font=("TkHeadingFont",12))
     removeonlyEntry = Entry(add_frame)
     
     submitremove = Button(add_frame, text="Remove one record from database", command=showe,width=33, height=2,font=("TkHeadingFont",12), cursor="hand2")
@@ -335,5 +335,8 @@ ShowButton.grid(row=5,column=0,padx=18,pady=5)
 RemoveButton = Button(frame1, text="Delete a record from the database", command=remove_fun, width=33, height=2, cursor="hand2", activeforeground="green", font=("TkHeadingFont",12))
 RemoveButton.grid(row=6,column=0,padx=18,pady=5)
 
+if __name__ == "__main__":
+    create_table()
+    root.mainloop()
 
-root.mainloop()
+

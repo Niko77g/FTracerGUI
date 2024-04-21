@@ -1,4 +1,4 @@
-('C:\\Users\\nicoh\\Documents\\FTracerGUI\\build\\FTracer\\PYZ-00.pyz',
+('C:\\Users\\nicoh\\Documents\\FTracerGUI\\build\\Ftracer\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\nicoh\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
    'PYMODULE'),
