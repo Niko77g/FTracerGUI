@@ -24,7 +24,8 @@ Lists of functions:
 <li><strong>Show function:</strong> Zobrazuje aktualne data uložene v databaze.</li>
 <li><strong>Remove function:</strong> Odstrani jeden zvoleny zaznam, alebo cely obsah databazy.</li>
 
-![GIF_FTracer](https://github.com/Niko77g/FTracerGUI/assets/94113127/f3dd4fd1-d306-4842-982f-7a39ec84c4bc)
+![GIF_FTracer (1)](https://github.com/Niko77g/FTracerGUI/assets/94113127/3cbb6cb9-4fd6-4285-aeae-cbf1b0391eb6)
+
 
 
 
