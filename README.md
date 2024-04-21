@@ -18,6 +18,6 @@ A nasledne stačiť len spustiť exe subor FTracer.exe:
 UPOZORNENIE: exe subor bol vytvoreny pomocou pyinstaller takže može sa stať že windows defender to bude považovať za virus.
 # USAGE
 Lists of functions: 
-Add function.  
+Add function. <br> 
 
 
