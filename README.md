@@ -18,7 +18,7 @@ A nasledne stačiť len spustiť exe subor FTracer.exe:
 UPOZORNENIE: exe subor bol vytvoreny pomocou pyinstaller takže može sa stať že windows defender to bude považovať za virus.
 # USAGE
 Lists of functions: 
-<li> Add function: Sluzi na pridanie nových zaznamov(názov, počet opakovani, počet serii, vaha) do databazy. </li>
+<li><bold>Add function:</bold> Sluzi na pridanie nových zaznamov(názov, počet opakovani, počet serii, vaha) do databazy. </li>
 <li>Edit function: Sluzi na editaciu zaznamenaných udajov v databaze pomocou ID.</li>
 <li>Compare function: Porovnava dve zaznamy podla nazvu cviku.</li>
 <li>Show function: Zobrazuje aktualne data uložene v databaze.</li>
