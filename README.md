@@ -16,4 +16,8 @@ A nasledne stačiť len spustiť exe subor FTracer.exe:
 <img width="323" alt="image" src="https://github.com/Niko77g/FTracerGUI/assets/94113127/b0d24311-06bf-4fa3-94b3-5926eabb9a78">
 
 UPOZORNENIE: exe subor bol vytvoreny pomocou pyinstaller takže može sa stať že windows defender to bude považovať za virus.
+# USAGE
+Lists of functions: 
+Add function.  
+
 
