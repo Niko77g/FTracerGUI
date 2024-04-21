@@ -20,9 +20,9 @@ UPOZORNENIE: exe subor bol vytvoreny pomocou pyinstaller takže može sa stať �
 Lists of functions: 
 <li> Add function: Sluzi na pridanie nových zaznamov(názov, počet opakovani, počet serii, vaha) do databazy. </li>
 <li>Edit function: Sluzi na editaciu zaznamenaných udajov v databaze pomocou ID.</li>
-Compare function: Porovnava dve zaznamy podla nazvu cviku.
-Show function: Zobrazuje aktualne data uložene v databaze.
-Remove function: Odstrani jeden zvoleny zaznam, alebo cely obsah databazy.
+<li>Compare function: Porovnava dve zaznamy podla nazvu cviku.</li>
+<li>Show function: Zobrazuje aktualne data uložene v databaze.</li>
+<li>Remove function: Odstrani jeden zvoleny zaznam, alebo cely obsah databazy.</li>
 
 
 
