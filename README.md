@@ -9,7 +9,7 @@ Vo fitness centre som sa často strevaval so skupinku ludi, ktori si svoje treni
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="git clone https://github.com/Niko77g/FTracerGUI.git">
   <pre lang="terminal" class="notranslate"><code>git clone https://github.com/Niko77g/FTracerGUI.git</code></pre>
 </div>
-3. Presunutie sa do priečniku v ktorom sa nachadza projekt
+  3. Presunutie sa do priečniku v ktorom sa nachadza projekt
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd FTracerGUI">
   <pre lang="terminal" class="notranslate"><code>cd FTracerGUI</code></pre>
 </div>
