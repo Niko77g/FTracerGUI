@@ -6,8 +6,8 @@ Vo fitness centre som sa často strevaval so skupinku ludi, ktori si svoje treni
 <strong> I.Sposob spustenia programu: </strong>
 1. Stiahnite si program z oficialneho webu Gitu https://git-scm.com/
 2. V aplikacii nasledne napište príkaz
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd FTracerGUI">
-  <pre lang="terminal" class="notranslate"><code>cd FTracerGUI</code></pre>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="git clone https://github.com/Niko77g/FTracerGUI.git">
+  <pre lang="terminal" class="notranslate"><code>git clone https://github.com/Niko77g/FTracerGUI.git</code></pre>
 </div>
 3. Presunutie sa do priečniku v ktorom sa nachadza projekt
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd FTracerGUI">
