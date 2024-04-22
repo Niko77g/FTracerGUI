@@ -1,7 +1,7 @@
 # FTracerGUI
-Toto je FTracer služí na zapisovanie osobných fitness vykonov bud v posilke, alebo počas behania v prírode tie nasledne uklada do vytvorenej databazy. Nechyba možnosť  je možnosť porovnania svojích vykonov s predchadzajucim vysledok pokial nejaky existuje. Uživatel má možnosť zakladneho editu, vymazania, alebo ukažky vykonu, ktorý uložil do databazy. 
+FTracer je aplikacia určená na zaznamenavanie osobných fitness vykonov, či už v posilke, alebo počas behania v prírode. Uložene data sa ukladaju do vytvorenej databazy. Aplikacia umožnuje porovnanie svojích vykonov s predchadzajucimi, ak sú k dizpozicii. Uživatel má možnosť zakladneho editu, vymazania, alebo ukažky vykonu, ktorý uložil do databazy. 
 # WHY?
-Vo fitness centre občas strevavám skupinku ludi, ktori si zapisuju svoje data do zosita a to bol moj dovod vzniku FTracer projektu služiaci na čo najednuduchšie poskytnuť uživatelovi potrebne funkcie, ktore mu skrati celkovy čas straveni pred obrazovkou a zaroven vedia pomerne rychlou cestou poskytnuť okamžity feedback o jeho aktualnom Fitness vykone. 
+Vo fitness centre som sa často strevaval so skupinku ludi, ktori si svoje treningové udaje do zositov.To bol moj dovod vzniku FTracer projektu. Cielom tohto projektu je čo najednuduchšie poskytnuť uživatelovi potrebne funkcie. Aplikacia taktiež umožnuje sledovať pokrok a získať okamžitu spätnú väzbu o aktualnej fitness urovni.
 # Quick Start
 Na spustenie programu nie je potrebna inštalacia Pythonu ani VSC. 
 1. Sposob spustenia programu:
