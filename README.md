@@ -5,7 +5,7 @@ Vo fitness centre som sa často strevaval so skupinku ludi, ktori si svoje treni
 # Quick Start
 1. Sposob spustenia programu:
 Stiahnite si program z oficialneho webu Gitu https://git-scm.com/
-V aplikacii nasledne napište príkaz git clone
+V aplikacii nasledne napište príkaz git clone https://github.com/Niko77g/FTracerGUI.git
 Tento návod Vás spustením programu FTracerGUI bez nutnosti inštalacie pythonu ani VSC:
 3. Sposob spustenia programu:
 Stiahnite si ZIP subor z mojho git repozitora a nasledne ho rozbalte na zariadeni s windowsom 10 alebo windowsom 11.
