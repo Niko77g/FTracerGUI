@@ -3,7 +3,7 @@ FTracer je aplikacia určená na zaznamenavanie osobných fitness vykonov, či u
 # WHY?
 Vo fitness centre som sa často strevaval so skupinku ludi, ktori si svoje treningové udaje do zositov.To bol moj dovod vzniku FTracer projektu. Cielom tohto projektu je čo najednuduchšie poskytnuť uživatelovi potrebne funkcie. Aplikacia taktiež umožnuje sledovať pokrok a získať okamžitu spätnú väzbu o aktualnej fitness urovni.
 # Quick Start
-# 1.<li> Sposob spustenia programu: </li>
+<strong> Sposob spustenia programu: </strong>
 1. Stiahnite si program z oficialneho webu Gitu https://git-scm.com/
 2. V aplikacii nasledne napište príkaz
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="git clone https://github.com/Niko77g/FTracerGUI.git">
