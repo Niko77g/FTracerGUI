@@ -6,8 +6,8 @@ Vo fitness centre som sa často strevaval so skupinku ludi, ktori si svoje treni
 # 1. Sposob spustenia programu:
 1. Stiahnite si program z oficialneho webu Gitu https://git-scm.com/
 2. V aplikacii nasledne napište príkaz
-   <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd Web-dev-mini-projects"><pre lang="terminal" class="notranslate"><code>cd Web-dev-mini-projects
- git clone https://github.com/Niko77g/FTracerGUI.git
+   <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content=" git clone https://github.com/Niko77g/FTracerGUI.gits"><pre lang="terminal" class="notranslate"><code> git clone https://github.com/Niko77g/FTracerGUI.git
+
 Tento návod Vás spustením programu FTracerGUI bez nutnosti inštalacie pythonu ani VSC:
 4. Sposob spustenia programu:
 Stiahnite si ZIP subor z mojho git repozitora a nasledne ho rozbalte na zariadeni s windowsom 10 alebo windowsom 11.
