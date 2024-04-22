@@ -3,7 +3,7 @@ FTracer je aplikacia určená na zaznamenavanie osobných fitness vykonov, či u
 # WHY?
 Vo fitness centre som sa často strevaval so skupinku ludi, ktori si svoje treningové udaje do zositov.To bol moj dovod vzniku FTracer projektu. Cielom tohto projektu je čo najednuduchšie poskytnuť uživatelovi potrebne funkcie. Aplikacia taktiež umožnuje sledovať pokrok a získať okamžitu spätnú väzbu o aktualnej fitness urovni.
 # Quick Start
-Na spustenie programu nie je potrebna inštalacia Pythonu ani VSC. 
+Tento návod Vás spustením programu FTracerGUI bez nutnosti inštalacie pythonu ani VSC:
 1. Sposob spustenia programu:
 Stiahnite si program z github FTracerGUI: git clone git@github.com:Niko77g/FTracerGUI.git
 2. Sposob spustenia programu:
@@ -15,7 +15,7 @@ A nasledne stačiť len spustiť exe subor FTracer.exe:
 
 <img width="323" alt="image" src="https://github.com/Niko77g/FTracerGUI/assets/94113127/b0d24311-06bf-4fa3-94b3-5926eabb9a78">
 
-UPOZORNENIE: exe subor bol vytvoreny pomocou pyinstaller takže može sa stať že windows defender to bude považovať za virus.
+UPOZORNENIE: Ak Windows Defender označí subor FTracer.exe vírus, je to falošný poplach. Aplikacia bola vytvorená pomocou pyinstallera
 # USAGE
 Lists of functions: 
 <li><strong>Add function:</strong> Sluzi na pridanie nových zaznamov(názov, počet opakovani, počet serii, vaha) do databazy. </li>
