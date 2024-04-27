@@ -13,8 +13,12 @@ Vo fitness centre som sa často strevaval so skupinku ludi, ktori si svoje treni
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cd FTracerGUI">
   <pre lang="terminal" class="notranslate"><code>cd FTracerGUI</code></pre>
 </div>
-Tento návod Vás spustením programu FTracerGUI bez nutnosti inštalacie pythonu ani VSC:
-4. Sposob spustenia programu:
+<strong>II.Spustenie FTracer bez VSC: </strong>
+Postupujte podla nižšie poskytnutých krokov na spustenie FTracer bez VSC.
+1.Stiahnite si zip file z repozitora
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="https://github.com/Niko77g/FTracerGUI">
+  <pre lang="terminal" class="notranslate"><code>https://github.com/Niko77g/FTracerGUI</code></pre>
+</div>
 Stiahnite si ZIP subor z mojho git repozitora a nasledne ho rozbalte na zariadeni s windowsom 10 alebo windowsom 11.
 Po extrahovani suboru otvorte priečinok a prejdite do priečinka Ftracer v ktorom sa nachadza .exe subor:
 <img width="224" alt="image" src="https://github.com/Niko77g/FTracerGUI/assets/94113127/c89340c8-27aa-4242-b515-d809f071377e">
