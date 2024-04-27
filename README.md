@@ -16,7 +16,7 @@ Vo fitness centre som sa často strevaval so skupinku ludi, ktori si svoje treni
 <strong>II.Spustenie FTracer bez VSC: </strong>
 Postupujte podla nižšie poskytnutých krokov na spustenie FTracer bez VSC.
 
-1.Stiahnite si zip file z repozitora
+1.Stiahnite si zip file z repozitora a rozbalte ZIP subor do lubovolneho priečinka
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="https://github.com/Niko77g/FTracerGUI">
   <pre lang="terminal" class="notranslate"><code>https://github.com/Niko77g/FTracerGUI</code></pre>
 </div>
