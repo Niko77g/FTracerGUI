@@ -20,6 +20,9 @@ Postupujte podla nižšie poskytnutých krokov na spustenie FTracer bez VSC.
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="https://github.com/Niko77g/FTracerGUI">
   <pre lang="terminal" class="notranslate"><code>https://github.com/Niko77g/FTracerGUI</code></pre>
 </div>
+2. Otvorenie ZIP subor FTracer
+  <li>Prejdite do priečinka s názvom FTracer</li>
+  <img width="224" alt="image" src="https://github.com/Niko77g/FTracerGUI/assets/94113127/c89340c8-27aa-4242-b515-d809f071377e">
 Stiahnite si ZIP subor z mojho git repozitora a nasledne ho rozbalte na zariadeni s windowsom 10 alebo windowsom 11.
 Po extrahovani suboru otvorte priečinok a prejdite do priečinka Ftracer v ktorom sa nachadza .exe subor:
 <img width="224" alt="image" src="https://github.com/Niko77g/FTracerGUI/assets/94113127/c89340c8-27aa-4242-b515-d809f071377e">
