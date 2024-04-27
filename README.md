@@ -1,7 +1,7 @@
 # FTracerGUI
-FTracer je aplikacia určená na zaznamenavanie osobných fitness vykonov, či už v posilke, alebo počas behania v prírode. Uložene data sa ukladaju do vytvorenej databazy. Aplikacia umožnuje porovnanie svojích vykonov s predchadzajucimi, ak sú k dizpozicii. Uživatel má možnosť zakladneho editu, vymazania, alebo ukažky vykonu, ktorý uložil do databazy. 
+FTracer is an app designed to record personal fitness performances, whether in the gym or while running in the outdoors. The saved data is stored in a created database. The application allows you to compare your performances with previous ones, if available. The user has the possibility of basic editing, deleting, or saving the performance he has saved in the database.
 # WHY?
-Vo fitness centre som sa často strevaval so skupinku ludi, ktori si svoje treningové udaje do zositov.To bol moj dovod vzniku FTracer projektu. Cielom tohto projektu je čo najednuduchšie poskytnuť uživatelovi potrebne funkcie. Aplikacia taktiež umožnuje sledovať pokrok a získať okamžitu spätnú väzbu o aktualnej fitness urovni.
+In the fitness center I often met a group of people who put their workout data into amplifiers.That was my reason for creating the FTracer project. The goal of this project is to provide the user with the necessary functionality as easily as possible. The app also allows to track progress and get instant feedback on your current fitness level.
 # Quick Start
 <strong> I.Sposob spustenia programu: </strong>
 1. Stiahnite si program z oficialneho webu Gitu https://git-scm.com/
