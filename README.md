@@ -26,9 +26,6 @@ Postupujte podla nižšie poskytnutých krokov na spustenie FTracer bez VSC.
   <li>Spustenie programu FTracer.exe</li>
   <img width="323" alt="image" src="https://github.com/Niko77g/FTracerGUI/assets/94113127/b0d24311-06bf-4fa3-94b3-5926eabb9a78">
 
-
-
-
 UPOZORNENIE: Ak Windows Defender označí subor FTracer.exe vírus, je to falošný poplach. Aplikacia bola vytvorená pomocou pyinstallera
 # USAGE
 Lists of functions: 
